@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>My First Web Page</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
+    <main>
+        <h2>About Me</h2>
+        <p>Hello! My name is Bishal, and this is my first web page. I'm learning HTML and CSS to build websites. This page includes a header, a main content area, and a footer. I'm excited to learn more about web development!</p>
+        
+        <h2>Contact</h2>
+        <p>If you'd like to get in touch, you can email me at <a href="galanbishal20@gmail.com">galanbishal20@gmail.com</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Web Page</p>
+    </footer>
+</body>
+</html>
